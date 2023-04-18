@@ -1,0 +1,1 @@
+Only have 2 states: HIGH (ON) and LOW (OFF)
